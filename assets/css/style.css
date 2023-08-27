@@ -1,0 +1,11 @@
+h1 {
+    background-color: brown;
+}
+
+body {
+    text-align: center;
+    font-size: large;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdCQShR2hsFRE-OfC9dz8dYsDv3bOUQkO1pg&usqp=CAU);
+    border-color: brown;
+}
+.color {background-color: red; margin: 25%;}
